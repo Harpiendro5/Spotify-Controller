@@ -25,4 +25,4 @@ MAX_REQUESTS_PER_WINDOW = 60
 WINDOW_SECONDS = 60
 
 back_button_points = [(95, 250), (95, 285), (70, 267.5)]
-skip_button_points = [(385, 250), (385, 285), (410, 267.5)] # x1 y1, x2 y2, x3 y3
+skip_button_points = [(385, 250), (385, 285), (410, 267.5)]
